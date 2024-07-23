@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lagenivo.github.io/sitemap
+Sitemap: https://lagenivo.github.io/app/sitemap
+Sitemap: https://lagenivo.github.io/assets/sitemap
+Sitemap: https://lagenivo.github.io/css/sitemap
+Sitemap: https://lagenivo.github.io/includes/sitemap
+Sitemap: https://lagenivo.github.io/item/sitemap
+Sitemap: https://lagenivo.github.io/src/sitemap
